@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bytebank", "bytebank\bytebank.csproj", "{404037EC-A312-4CA2-9A43-6B9712A997EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioFixaxao", "DesafioFixaxao\DesafioFixaxao.csproj", "{7DD99850-031E-433F-AC92-5FA975974252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404037EC-A312-4CA2-9A43-6B9712A997EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404037EC-A312-4CA2-9A43-6B9712A997EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404037EC-A312-4CA2-9A43-6B9712A997EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404037EC-A312-4CA2-9A43-6B9712A997EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD99850-031E-433F-AC92-5FA975974252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD99850-031E-433F-AC92-5FA975974252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD99850-031E-433F-AC92-5FA975974252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD99850-031E-433F-AC92-5FA975974252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35A5FFBE-C8CC-4102-B389-65E2CC7D7DFB}
+	EndGlobalSection
+EndGlobal
