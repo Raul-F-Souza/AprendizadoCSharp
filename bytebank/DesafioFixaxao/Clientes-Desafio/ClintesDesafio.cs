@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bytebank
+namespace DesafioFixaxao
 {
-    public class Cliente
+    public class Clintes
     {
         public string nome;
-        public string profissao;
-        public string cpf;
-
+        public string rg;
+        public EnderecoDesafio enderecoCliente;
+        public int NumeroDoPedido;
     }
 }
